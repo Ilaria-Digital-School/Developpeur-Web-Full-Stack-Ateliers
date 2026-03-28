@@ -1,0 +1,18 @@
+---
+layout: default
+title: "Full Stack Web Developer"
+description: "Devenir Développeur Web Full Stack et maîtriser le développement pour créer, gérer et déployer des applications complètes (HTML, CSS, initiation à l'algorithmiq"
+---
+
+# Full Stack Web Developer
+
+Devenir Développeur Web Full Stack et maîtriser le développement pour créer, gérer et déployer des applications complètes (HTML, CSS, initiation à l'algorithmique, JavaScript, NodeJS comme backend principal, Python pour scripting/automatisation, SQL, NoSQL, Git, tests unitaires, sécuriser son application web, CI/CD). Compétences: Concevoir une architecture logicielle multicouche et sécurisée (présentation, métier, persistance) ; Développer les composants front-end et back-end d’une application web ; Implémenter des API REST sécurisées et interconnectées à une base de données relationnelle ou NoSQL ; Automatiser les déploiements via des pipelines CI/CD dans une logique DevOps ; Rédiger la documentation technique et préparer la mise en production ; Collaborer en mode projet Agile (user stories, backlog, sprints, stand-ups) ;
+
+[Voir l'atelier complet](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/)
+
+## Ateliers
+
+01. [Atelier guidé : repérer les composants (éditeur, terminal, navigateur)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/62c02292-d137-460a-8fd3-412d3837cffa/atelier-guid-reprer-les-composants-diteur-terminal-navigateur)
+02. [Atelier : installation et première ouverture de VS Code](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/bbd442ce-4d8c-4da5-9e9f-b4023728e7c9/atelier-installation-et-premire-ouverture-de-vs-code)
+03. [Atelier : parcours guidé de l’interface et raccourcis clés](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/84e915cd-1546-4bc0-a09f-47a0d2e82e50/atelier-parcours-guid-de-l-interface-et-raccourcis-cls)
+
