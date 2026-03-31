@@ -15,4 +15,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 01. [Atelier guidé : repérer les composants (éditeur, terminal, navigateur)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/62c02292-d137-460a-8fd3-412d3837cffa/atelier-guid-reprer-les-composants-diteur-terminal-navigateur)
 02. [Atelier : installation et première ouverture de VS Code](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/bbd442ce-4d8c-4da5-9e9f-b4023728e7c9/atelier-installation-et-premire-ouverture-de-vs-code)
 03. [Atelier : parcours guidé de l’interface et raccourcis clés](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/84e915cd-1546-4bc0-a09f-47a0d2e82e50/atelier-parcours-guid-de-l-interface-et-raccourcis-cls)
+04. [Atelier : commandes de base (cd, ls, mkdir, touch)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/14a2b431-3bd9-4468-a565-c9e97e1a729d/atelier-commandes-de-base-cd-ls-mkdir-touch)
 

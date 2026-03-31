@@ -9,3 +9,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [01. Atelier guidé : repérer les composants (éditeur, terminal, navigateur)](01-atelier-guid-rep-rer-les-composants-diteur-terminal-navigateur/)
 - [02. Atelier : installation et première ouverture de VS Code](02-atelier-installation-et-premi-re-ouverture-de-vs-code/)
 - [03. Atelier : parcours guidé de l’interface et raccourcis clés](03-atelier-parcours-guid-de-l-interface-et-raccourcis-cl-s/)
+- [04. Atelier : commandes de base (cd, ls, mkdir, touch)](04-atelier-commandes-de-base-cd-ls-mkdir-touch/)
