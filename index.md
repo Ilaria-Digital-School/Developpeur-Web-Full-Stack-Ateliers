@@ -17,4 +17,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 03. [Atelier : parcours guidé de l’interface et raccourcis clés](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/84e915cd-1546-4bc0-a09f-47a0d2e82e50/atelier-parcours-guid-de-l-interface-et-raccourcis-cls)
 04. [Atelier : commandes de base (cd, ls, mkdir, touch)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/14a2b431-3bd9-4468-a565-c9e97e1a729d/atelier-commandes-de-base-cd-ls-mkdir-touch)
 05. [Atelier variation : gérer dossiers et fichiers d’un mini-projet](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/cc72df18-e53b-4bad-9a44-dd983c16ea44/atelier-variation-grer-dossiers-et-fichiers-d-un-mini-projet)
+06. [Atelier : inspecter une page HTML avec DevTools](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/18b1446f-7250-4a60-bd4a-973ffb7793cb/atelier-inspecter-une-page-html-avec-devtools)
 

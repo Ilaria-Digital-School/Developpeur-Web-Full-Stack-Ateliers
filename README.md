@@ -11,3 +11,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [03. Atelier : parcours guidé de l’interface et raccourcis clés](03-atelier-parcours-guid-de-l-interface-et-raccourcis-cl-s/)
 - [04. Atelier : commandes de base (cd, ls, mkdir, touch)](04-atelier-commandes-de-base-cd-ls-mkdir-touch/)
 - [05. Atelier variation : gérer dossiers et fichiers d’un mini-projet](05-atelier-variation-g-rer-dossiers-et-fichiers-d-un-mini-projet/)
+- [06. Atelier : inspecter une page HTML avec DevTools](06-atelier-inspecter-une-page-html-avec-devtools/)
