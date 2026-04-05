@@ -1,2 +1,0 @@
-<?php
-// Atelier : parcours guidé de l’interface et raccourcis clés

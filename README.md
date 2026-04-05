@@ -6,10 +6,10 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 
 ## Ateliers
 
-- [01. Atelier guidé : repérer les composants (éditeur, terminal, navigateur)](01-atelier-guid-rep-rer-les-composants-diteur-terminal-navigateur/)
+- [01. Atelier : repérer les composants (éditeur, terminal, navigateur)](01-atelier-rep-rer-les-composants-diteur-terminal-navigateur/)
 - [02. Atelier : installation et première ouverture de VS Code](02-atelier-installation-et-premi-re-ouverture-de-vs-code/)
-- [03. Atelier : parcours guidé de l’interface et raccourcis clés](03-atelier-parcours-guid-de-l-interface-et-raccourcis-cl-s/)
+- [03. Atelier : parcours de l’interface et raccourcis clés](03-atelier-parcours-de-l-interface-et-raccourcis-cl-s/)
 - [04. Atelier : commandes de base (cd, ls, mkdir, touch)](04-atelier-commandes-de-base-cd-ls-mkdir-touch/)
-- [05. Atelier variation : gérer dossiers et fichiers d’un mini-projet](05-atelier-variation-g-rer-dossiers-et-fichiers-d-un-mini-projet/)
+- [05. Atelier : Gérer dossiers et fichiers d’un mini-projet](05-atelier-g-rer-dossiers-et-fichiers-d-un-mini-projet/)
 - [06. Atelier : inspecter une page HTML avec DevTools](06-atelier-inspecter-une-page-html-avec-devtools/)
 - [07. Atelier : créer index.html et observer les modifications en direct](07-atelier-cr-er-index-html-et-observer-les-modifications-en-direct/)

@@ -12,11 +12,11 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 
 ## Ateliers
 
-01. [Atelier guidé : repérer les composants (éditeur, terminal, navigateur)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/62c02292-d137-460a-8fd3-412d3837cffa/atelier-guid-reprer-les-composants-diteur-terminal-navigateur)
+01. [Atelier : repérer les composants (éditeur, terminal, navigateur)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/62c02292-d137-460a-8fd3-412d3837cffa/atelier-reprer-les-composants-diteur-terminal-navigateur)
 02. [Atelier : installation et première ouverture de VS Code](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/bbd442ce-4d8c-4da5-9e9f-b4023728e7c9/atelier-installation-et-premire-ouverture-de-vs-code)
-03. [Atelier : parcours guidé de l’interface et raccourcis clés](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/84e915cd-1546-4bc0-a09f-47a0d2e82e50/atelier-parcours-guid-de-l-interface-et-raccourcis-cls)
+03. [Atelier : parcours de l’interface et raccourcis clés](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/84e915cd-1546-4bc0-a09f-47a0d2e82e50/atelier-parcours-de-l-interface-et-raccourcis-cls)
 04. [Atelier : commandes de base (cd, ls, mkdir, touch)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/14a2b431-3bd9-4468-a565-c9e97e1a729d/atelier-commandes-de-base-cd-ls-mkdir-touch)
-05. [Atelier variation : gérer dossiers et fichiers d’un mini-projet](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/cc72df18-e53b-4bad-9a44-dd983c16ea44/atelier-variation-grer-dossiers-et-fichiers-d-un-mini-projet)
+05. [Atelier : Gérer dossiers et fichiers d’un mini-projet](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/cc72df18-e53b-4bad-9a44-dd983c16ea44/atelier-grer-dossiers-et-fichiers-d-un-mini-projet)
 06. [Atelier : inspecter une page HTML avec DevTools](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/18b1446f-7250-4a60-bd4a-973ffb7793cb/atelier-inspecter-une-page-html-avec-devtools)
 07. [Atelier : créer index.html et observer les modifications en direct](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/a29a5386-a290-4d05-b7ee-b739afe91ea9/atelier-crer-index-html-et-observer-les-modifications-en-direct)
 
