@@ -13,3 +13,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [05. Atelier : Gérer dossiers et fichiers d’un mini-projet](05-atelier-g-rer-dossiers-et-fichiers-d-un-mini-projet/)
 - [06. Atelier : inspecter une page HTML avec DevTools](06-atelier-inspecter-une-page-html-avec-devtools/)
 - [07. Atelier : créer index.html et observer les modifications en direct](07-atelier-cr-er-index-html-et-observer-les-modifications-en-direct/)
+- [08. Atelier : provoquer et lire une erreur HTML/CSS](08-atelier-provoquer-et-lire-une-erreur-html-css/)
