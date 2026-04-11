@@ -22,4 +22,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 08. [Atelier : provoquer et lire une erreur HTML/CSS](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/e6eb3111-733c-4509-9711-1a955819e819/atelier-provoquer-et-lire-une-erreur-html-css)
 09. [Atelier : décomposer le problème « commander une pizza »](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/137cd0b6-b711-4ef8-8449-a53edf33c660/atelier-dcomposer-le-problme-commander-une-pizza)
 10. [Atelier : installer Git et configurer user.name / user.email](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/3db90aba-c882-445f-8278-a0e7693cb877/atelier-installer-git-et-configurer-user-name-user-email)
+11. [Atelier : créer un dépôt local et réaliser un premier commit](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b7e07c2e-1735-42d3-9a14-adb849f0bb03/db2e15cb-e54b-4090-8931-3c3b810a87d4/atelier-crer-un-dpt-local-et-raliser-un-premier-commit)
 
