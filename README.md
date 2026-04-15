@@ -17,3 +17,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [09. Atelier : décomposer le problème « commander une pizza »](09-atelier-d-composer-le-probl-me-commander-une-pizza/)
 - [10. Atelier : installer Git et configurer user.name / user.email](10-atelier-installer-git-et-configurer-user-name-user-email/)
 - [11. Atelier : créer un dépôt local et réaliser un premier commit](11-atelier-cr-er-un-d-p-t-local-et-r-aliser-un-premier-commit/)
+- [12. Atelier : rédiger des commits significatifs](12-atelier-r-diger-des-commits-significatifs/)
