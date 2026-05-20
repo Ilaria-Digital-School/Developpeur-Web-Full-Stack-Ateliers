@@ -1,0 +1,2 @@
+<?php
+// Atelier : construire la maquette d’un blog une-colonne

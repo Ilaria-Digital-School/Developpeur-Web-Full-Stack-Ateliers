@@ -1,0 +1,2 @@
+<?php
+// Atelier : trouver la bonne réponse sur MDN et l’appliquer
