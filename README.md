@@ -33,3 +33,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [25. Atelier : nettoyer et commenter votre code](25-atelier-nettoyer-et-commenter-votre-code/)
 - [26. Mini-projet : créer son CV sémantique](26-mini-projet-cr-er-son-cv-s-mantique/)
 - [27. Atelier : ajouter la liste des compétences dans le CV](27-atelier-ajouter-la-liste-des-comp-tences-dans-le-cv/)
+- [28. Atelier : Listes imbriquées](28-atelier-listes-imbriqu-es/)

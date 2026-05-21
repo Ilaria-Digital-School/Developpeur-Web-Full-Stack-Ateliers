@@ -39,4 +39,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 25. [Atelier : nettoyer et commenter votre code](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/0a4d5a9b-e693-4fcc-883b-1dfe0cff214e/atelier-nettoyer-et-commenter-votre-code)
 26. [Mini-projet : créer son CV sémantique](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/bf846b56-94ba-430e-828b-ea81f9539587/mini-projet-crer-son-cv-smantique)
 27. [Atelier : ajouter la liste des compétences dans le CV](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/ad0a181a-5ae6-4455-9f7e-9b0a5fd7b726/atelier-ajouter-la-liste-des-comptences-dans-le-cv)
+28. [Atelier : Listes imbriquées](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/1f95774b-c9b7-4dde-a7ab-7cb84577e647/atelier-listes-imbriques)
 
