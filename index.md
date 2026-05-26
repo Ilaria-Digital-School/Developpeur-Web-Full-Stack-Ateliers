@@ -41,4 +41,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 27. [Atelier : ajouter la liste des compétences dans le CV](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/ad0a181a-5ae6-4455-9f7e-9b0a5fd7b726/atelier-ajouter-la-liste-des-comptences-dans-le-cv)
 28. [Atelier : Listes imbriquées](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/1f95774b-c9b7-4dde-a7ab-7cb84577e647/atelier-listes-imbriques)
 29. [Atelier : créer une navigation interne avec ancres](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/7bcd8b98-22da-4bf0-892c-53debc0a2ed0/atelier-crer-une-navigation-interne-avec-ancres)
+30. [Atelier : liste de ressources externes (target et rel)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/20412962-0634-4e8c-b271-a09ba5445f30/atelier-liste-de-ressources-externes-target-et-rel)
 
