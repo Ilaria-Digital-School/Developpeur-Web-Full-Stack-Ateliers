@@ -43,4 +43,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 29. [Atelier : créer une navigation interne avec ancres](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/7bcd8b98-22da-4bf0-892c-53debc0a2ed0/atelier-creer-une-navigation-interne-avec-ancres)
 30. [Atelier : liste de ressources externes (target et rel)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/20412962-0634-4e8c-b271-a09ba5445f30/atelier-liste-de-ressources-externes-target-et-rel)
 31. [Atelier : insérer une photo de profil avec légende](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/ff7181a5-ccc5-4244-b810-5e8d93634e4a/atelier-inserer-une-photo-de-profil-avec-legende)
+32. [Atelier : créer une galerie d’images sémantique](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/89a67729-7fda-4516-8450-a768fa65177a/atelier-creer-une-galerie-d-images-semantique)
 

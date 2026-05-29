@@ -37,3 +37,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [29. Atelier : créer une navigation interne avec ancres](29-atelier-cr-er-une-navigation-interne-avec-ancres/)
 - [30. Atelier : liste de ressources externes (target et rel)](30-atelier-liste-de-ressources-externes-target-et-rel/)
 - [31. Atelier : insérer une photo de profil avec légende](31-atelier-ins-rer-une-photo-de-profil-avec-l-gende/)
+- [32. Atelier : créer une galerie d’images sémantique](32-atelier-cr-er-une-galerie-d-images-s-mantique/)
