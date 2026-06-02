@@ -1,0 +1,2 @@
+<?php
+// Atelier : enrichir l’article de blog avec balises inline

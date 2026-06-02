@@ -44,4 +44,6 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 30. [Atelier : liste de ressources externes (target et rel)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/20412962-0634-4e8c-b271-a09ba5445f30/atelier-liste-de-ressources-externes-target-et-rel)
 31. [Atelier : insérer une photo de profil avec légende](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/ff7181a5-ccc5-4244-b810-5e8d93634e4a/atelier-inserer-une-photo-de-profil-avec-legende)
 32. [Atelier : créer une galerie d’images sémantique](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/89a67729-7fda-4516-8450-a768fa65177a/atelier-creer-une-galerie-d-images-semantique)
+33. [Atelier : enrichir l’article de blog avec balises inline](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/8a78126b-9dd1-4a3b-98b1-4031085301bf/atelier-enrichir-l-article-de-blog-avec-balises-inline)
+34. [Atelier : Utiliser time, code et abbr correctement](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/98850571-ba5b-4006-aa92-e08c97e6d85c/atelier-utiliser-time-code-et-abbr-correctement)
 
