@@ -40,3 +40,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [32. Atelier : créer une galerie d’images sémantique](32-atelier-cr-er-une-galerie-d-images-s-mantique/)
 - [33. Atelier : enrichir l’article de blog avec balises inline](33-atelier-enrichir-l-article-de-blog-avec-balises-inline/)
 - [34. Atelier : Utiliser time, code et abbr correctement](34-atelier-utiliser-time-code-et-abbr-correctement/)
+- [35. Atelier : construire un planning hebdomadaire](35-atelier-construire-un-planning-hebdomadaire/)
