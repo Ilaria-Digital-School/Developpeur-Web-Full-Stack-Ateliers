@@ -1,0 +1,1 @@
+// Atelier : rendre un tableau accessible (scope, summary)

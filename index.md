@@ -47,4 +47,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 33. [Atelier : enrichir l’article de blog avec balises inline](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/8a78126b-9dd1-4a3b-98b1-4031085301bf/atelier-enrichir-l-article-de-blog-avec-balises-inline)
 34. [Atelier : Utiliser time, code et abbr correctement](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/98850571-ba5b-4006-aa92-e08c97e6d85c/atelier-utiliser-time-code-et-abbr-correctement)
 35. [Atelier : construire un planning hebdomadaire](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/d9ab3773-245d-4075-a792-54e5dfe04d5d/atelier-construire-un-planning-hebdomadaire)
+36. [Atelier : rendre un tableau accessible (scope, summary)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/2f52619d-d395-4d47-bcbc-38bba76a14a6/atelier-rendre-un-tableau-accessible-scope-summary)
 

@@ -41,3 +41,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [33. Atelier : enrichir l’article de blog avec balises inline](33-atelier-enrichir-l-article-de-blog-avec-balises-inline/)
 - [34. Atelier : Utiliser time, code et abbr correctement](34-atelier-utiliser-time-code-et-abbr-correctement/)
 - [35. Atelier : construire un planning hebdomadaire](35-atelier-construire-un-planning-hebdomadaire/)
+- [36. Atelier : rendre un tableau accessible (scope, summary)](36-atelier-rendre-un-tableau-accessible-scope-summary/)
