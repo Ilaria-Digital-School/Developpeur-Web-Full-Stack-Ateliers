@@ -43,3 +43,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [35. Atelier : construire un planning hebdomadaire](35-atelier-construire-un-planning-hebdomadaire/)
 - [36. Atelier : rendre un tableau accessible (scope, summary)](36-atelier-rendre-un-tableau-accessible-scope-summary/)
 - [37. Mini-projet final : portfolio multi-pages entièrement sémantique](37-mini-projet-final-portfolio-multi-pages-enti-rement-s-mantique/)
+- [38. Observation : inspecter un site non-responsive](38-observation-inspecter-un-site-non-responsive/)

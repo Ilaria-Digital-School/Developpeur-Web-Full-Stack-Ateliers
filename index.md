@@ -49,4 +49,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 35. [Atelier : construire un planning hebdomadaire](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/d9ab3773-245d-4075-a792-54e5dfe04d5d/atelier-construire-un-planning-hebdomadaire)
 36. [Atelier : rendre un tableau accessible (scope, summary)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/2f52619d-d395-4d47-bcbc-38bba76a14a6/atelier-rendre-un-tableau-accessible-scope-summary)
 37. [Mini-projet final : portfolio multi-pages entièrement sémantique](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/d9ee0810-f9b9-48b4-9c5e-2fd60e685c20/mini-projet-final-portfolio-multi-pages-entierement-semantique)
+38. [Observation : inspecter un site non-responsive](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/09735346-1585-4cf1-b065-70cc1cc35356/observation-inspecter-un-site-non-responsive)
 
