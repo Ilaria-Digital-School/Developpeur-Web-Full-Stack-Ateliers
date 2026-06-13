@@ -50,4 +50,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 36. [Atelier : rendre un tableau accessible (scope, summary)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/2f52619d-d395-4d47-bcbc-38bba76a14a6/atelier-rendre-un-tableau-accessible-scope-summary)
 37. [Mini-projet final : portfolio multi-pages entièrement sémantique](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/27ff0726-3de4-4616-b0be-d9a166415d04/d9ee0810-f9b9-48b4-9c5e-2fd60e685c20/mini-projet-final-portfolio-multi-pages-entierement-semantique)
 38. [Observation : inspecter un site non-responsive](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/09735346-1585-4cf1-b065-70cc1cc35356/observation-inspecter-un-site-non-responsive)
+39. [Atelier : première media query pour changer la couleur d’arrière-plan](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/db219be5-9917-48f1-b8a3-5354a7619a10/atelier-premiere-media-query-pour-changer-la-couleur-d-arriere-plan)
 
