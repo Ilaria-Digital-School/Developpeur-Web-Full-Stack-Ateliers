@@ -53,4 +53,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 39. [Atelier : première media query pour changer la couleur d’arrière-plan](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/db219be5-9917-48f1-b8a3-5354a7619a10/atelier-premiere-media-query-pour-changer-la-couleur-d-arriere-plan)
 40. [Atelier : Adapter la taille de police selon la largeur de l’écran](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/a6ad10ae-db27-4146-b65f-a664d850fe05/atelier-adapter-la-taille-de-police-selon-la-largeur-de-l-ecran)
 41. [Atelier : convertir un design en rem et vw](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/ff2e3346-b9f1-4765-a54d-074dd8306822/atelier-convertir-un-design-en-rem-et-vw)
+42. [Atelier : alignement de base avec Flexbox](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/e202efc8-4c48-46ab-9f1c-d979ee7e6d42/atelier-alignement-de-base-avec-flexbox)
 
