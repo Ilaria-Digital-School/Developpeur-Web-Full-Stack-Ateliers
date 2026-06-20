@@ -48,3 +48,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [40. Atelier : Adapter la taille de police selon la largeur de l’écran](40-atelier-adapter-la-taille-de-police-selon-la-largeur-de-l-cran/)
 - [41. Atelier : convertir un design en rem et vw](41-atelier-convertir-un-design-en-rem-et-vw/)
 - [42. Atelier : alignement de base avec Flexbox](42-atelier-alignement-de-base-avec-flexbox/)
+- [43. Atelier : créer une barre de navigation flexible](43-atelier-cr-er-une-barre-de-navigation-flexible/)
