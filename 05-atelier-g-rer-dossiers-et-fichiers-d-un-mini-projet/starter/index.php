@@ -1,2 +1,0 @@
-<?php
-// Atelier : Gérer dossiers et fichiers d’un mini-projet

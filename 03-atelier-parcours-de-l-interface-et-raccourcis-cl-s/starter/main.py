@@ -1,1 +1,0 @@
-# Atelier : parcours de l’interface et raccourcis clés
