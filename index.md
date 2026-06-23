@@ -55,4 +55,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 41. [Atelier : convertir un design en rem et vw](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/ff2e3346-b9f1-4765-a54d-074dd8306822/atelier-convertir-un-design-en-rem-et-vw)
 42. [Atelier : alignement de base avec Flexbox](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/e202efc8-4c48-46ab-9f1c-d979ee7e6d42/atelier-alignement-de-base-avec-flexbox)
 43. [Atelier : créer une barre de navigation flexible](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/6f0e845b-be8d-4756-8179-5c7295e86e10/atelier-creer-une-barre-de-navigation-flexible)
+44. [Atelier : Inversion de l'ordre des éléments avec flex-direction](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/8b96e152-afb4-4276-aeb4-dda347635016/atelier-inversion-de-l-ordre-des-elements-avec-flex-direction)
 
