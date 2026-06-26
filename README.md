@@ -51,3 +51,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [43. Atelier : créer une barre de navigation flexible](43-atelier-cr-er-une-barre-de-navigation-flexible/)
 - [44. Atelier : Inversion de l'ordre des éléments avec flex-direction](44-atelier-inversion-de-l-ordre-des-l-ments-avec-flex-direction/)
 - [45. Atelier : galerie d'images responsive avec flex-wrap](45-atelier-galerie-d-images-responsive-avec-flex-wrap/)
+- [46. Atelier : section « À propos » adaptative](46-atelier-section-propos-adaptative/)

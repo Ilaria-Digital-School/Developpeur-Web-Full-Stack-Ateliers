@@ -1,0 +1,1 @@
+# Atelier : section « À propos » adaptative
