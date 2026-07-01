@@ -52,3 +52,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [44. Atelier : Inversion de l'ordre des éléments avec flex-direction](44-atelier-inversion-de-l-ordre-des-l-ments-avec-flex-direction/)
 - [45. Atelier : galerie d'images responsive avec flex-wrap](45-atelier-galerie-d-images-responsive-avec-flex-wrap/)
 - [46. Atelier : section « À propos » adaptative](46-atelier-section-propos-adaptative/)
+- [47. Atelier : grille de base à 2 colonnes et 3 lignes](47-atelier-grille-de-base-2-colonnes-et-3-lignes/)

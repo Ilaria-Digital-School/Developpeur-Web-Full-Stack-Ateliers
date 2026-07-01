@@ -58,4 +58,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 44. [Atelier : Inversion de l'ordre des éléments avec flex-direction](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/8b96e152-afb4-4276-aeb4-dda347635016/atelier-inversion-de-l-ordre-des-elements-avec-flex-direction)
 45. [Atelier : galerie d'images responsive avec flex-wrap](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/2f3a1d97-1b09-4b57-a18a-33c253c330e8/atelier-galerie-d-images-responsive-avec-flex-wrap)
 46. [Atelier : section « À propos » adaptative](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/cb577b24-e24e-4d0a-b975-a47fdbabd9d4/atelier-section-a-propos-adaptative)
+47. [Atelier : grille de base à 2 colonnes et 3 lignes](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/657fe1c7-bc86-47b3-a7bf-43a92ac86ad9/atelier-grille-de-base-a-2-colonnes-et-3-lignes)
 
