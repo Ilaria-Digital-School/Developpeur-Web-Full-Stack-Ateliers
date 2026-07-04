@@ -60,4 +60,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 46. [Atelier : section « À propos » adaptative](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/cb577b24-e24e-4d0a-b975-a47fdbabd9d4/atelier-section-a-propos-adaptative)
 47. [Atelier : grille de base à 2 colonnes et 3 lignes](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/657fe1c7-bc86-47b3-a7bf-43a92ac86ad9/atelier-grille-de-base-a-2-colonnes-et-3-lignes)
 48. [Atelier : Grille fluide avec repeat(auto-fit, minmax)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/748a095e-0ff9-4904-a740-b6ac4163c3bd/atelier-grille-fluide-avec-repeat-auto-fit-minmax)
+49. [Atelier : mise en page de blog (sidebar + contenu)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/59f5ac5e-9824-4900-a9b7-ff057182f5b3/atelier-mise-en-page-de-blog-sidebar-contenu)
 

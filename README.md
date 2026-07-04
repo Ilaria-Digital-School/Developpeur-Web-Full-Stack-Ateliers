@@ -54,3 +54,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [46. Atelier : section « À propos » adaptative](46-atelier-section-propos-adaptative/)
 - [47. Atelier : grille de base à 2 colonnes et 3 lignes](47-atelier-grille-de-base-2-colonnes-et-3-lignes/)
 - [48. Atelier : Grille fluide avec repeat(auto-fit, minmax)](48-atelier-grille-fluide-avec-repeat-auto-fit-minmax/)
+- [49. Atelier : mise en page de blog (sidebar + contenu)](49-atelier-mise-en-page-de-blog-sidebar-contenu/)
