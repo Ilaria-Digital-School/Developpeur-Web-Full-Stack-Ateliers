@@ -56,3 +56,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [48. Atelier : Grille fluide avec repeat(auto-fit, minmax)](48-atelier-grille-fluide-avec-repeat-auto-fit-minmax/)
 - [49. Atelier : mise en page de blog (sidebar + contenu)](49-atelier-mise-en-page-de-blog-sidebar-contenu/)
 - [50. Atelier : passer de 4 colonnes à 1 colonne selon la taille d'écran](50-atelier-passer-de-4-colonnes-1-colonne-selon-la-taille-d-cran/)
+- [51. Mini-projet intermédiaire : page d'accueil portfolio responsive](51-mini-projet-interm-diaire-page-d-accueil-portfolio-responsive/)
