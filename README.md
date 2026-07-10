@@ -57,3 +57,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [49. Atelier : mise en page de blog (sidebar + contenu)](49-atelier-mise-en-page-de-blog-sidebar-contenu/)
 - [50. Atelier : passer de 4 colonnes à 1 colonne selon la taille d'écran](50-atelier-passer-de-4-colonnes-1-colonne-selon-la-taille-d-cran/)
 - [51. Mini-projet intermédiaire : page d'accueil portfolio responsive](51-mini-projet-interm-diaire-page-d-accueil-portfolio-responsive/)
+- [52. Atelier : refactorer une page existante en mobile-first](52-atelier-refactorer-une-page-existante-en-mobile-first/)
