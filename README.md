@@ -59,3 +59,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [51. Mini-projet intermédiaire : page d'accueil portfolio responsive](51-mini-projet-interm-diaire-page-d-accueil-portfolio-responsive/)
 - [52. Atelier : refactorer une page existante en mobile-first](52-atelier-refactorer-une-page-existante-en-mobile-first/)
 - [53. Atelier : rendre un formulaire à la fois responsive et accessible](53-atelier-rendre-un-formulaire-la-fois-responsive-et-accessible/)
+- [54. Atelier : implémenter un jeu d'images adaptatif performant](54-atelier-impl-menter-un-jeu-d-images-adaptatif-performant/)
