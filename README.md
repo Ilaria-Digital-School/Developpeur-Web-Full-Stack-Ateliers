@@ -60,3 +60,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [52. Atelier : refactorer une page existante en mobile-first](52-atelier-refactorer-une-page-existante-en-mobile-first/)
 - [53. Atelier : rendre un formulaire à la fois responsive et accessible](53-atelier-rendre-un-formulaire-la-fois-responsive-et-accessible/)
 - [54. Atelier : implémenter un jeu d'images adaptatif performant](54-atelier-impl-menter-un-jeu-d-images-adaptatif-performant/)
+- [55. Projet final de chapitre : tableau de bord adaptatif multi-breakpoints](55-projet-final-de-chapitre-tableau-de-bord-adaptatif-multi-breakpoints/)
+- [56. Débriefing collaboratif : revue de code responsive](56-d-briefing-collaboratif-revue-de-code-responsive/)
