@@ -62,3 +62,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [54. Atelier : implémenter un jeu d'images adaptatif performant](54-atelier-impl-menter-un-jeu-d-images-adaptatif-performant/)
 - [55. Projet final de chapitre : tableau de bord adaptatif multi-breakpoints](55-projet-final-de-chapitre-tableau-de-bord-adaptatif-multi-breakpoints/)
 - [56. Débriefing collaboratif : revue de code responsive](56-d-briefing-collaboratif-revue-de-code-responsive/)
+- [57. Transformer une recette de cuisine en pseudo-code](57-transformer-une-recette-de-cuisine-en-pseudo-code/)
+- [58. Pseudo-code d'un trajet quotidien](58-pseudo-code-d-un-trajet-quotidien/)
