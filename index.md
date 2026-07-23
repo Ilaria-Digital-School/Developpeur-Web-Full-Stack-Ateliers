@@ -70,4 +70,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 56. [Débriefing collaboratif : revue de code responsive](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/a6a654be-2e76-4d8d-96ac-38dbbfb6106a/debriefing-collaboratif-revue-de-code-responsive)
 57. [Transformer une recette de cuisine en pseudo-code](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/fad384cb-d236-4ba8-a049-66c49a1c8846/transformer-une-recette-de-cuisine-en-pseudo-code)
 58. [Pseudo-code d'un trajet quotidien](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/4f288c3f-a273-4907-940e-09e96dd4c6f2/pseudo-code-d-un-trajet-quotidien)
+59. [Dessiner un organigramme simple](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/41441869-8bd0-41cc-87eb-5d572d011bb0/dessiner-un-organigramme-simple)
 
