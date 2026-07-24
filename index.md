@@ -71,4 +71,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 57. [Transformer une recette de cuisine en pseudo-code](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/fad384cb-d236-4ba8-a049-66c49a1c8846/transformer-une-recette-de-cuisine-en-pseudo-code)
 58. [Pseudo-code d'un trajet quotidien](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/4f288c3f-a273-4907-940e-09e96dd4c6f2/pseudo-code-d-un-trajet-quotidien)
 59. [Dessiner un organigramme simple](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/41441869-8bd0-41cc-87eb-5d572d011bb0/dessiner-un-organigramme-simple)
+60. [Réécrire un algorithme désordonné](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/b4c4eb85-30af-4f08-b6a5-51b71b79e353/reecrire-un-algorithme-desordonne)
 

@@ -65,3 +65,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [57. Transformer une recette de cuisine en pseudo-code](57-transformer-une-recette-de-cuisine-en-pseudo-code/)
 - [58. Pseudo-code d'un trajet quotidien](58-pseudo-code-d-un-trajet-quotidien/)
 - [59. Dessiner un organigramme simple](59-dessiner-un-organigramme-simple/)
+- [60. Réécrire un algorithme désordonné](60-r-crire-un-algorithme-d-sordonn/)
