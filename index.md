@@ -74,4 +74,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 60. [Réécrire un algorithme désordonné](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/b4c4eb85-30af-4f08-b6a5-51b71b79e353/reecrire-un-algorithme-desordonne)
 61. [Mini-checkpoint - Préparer un café](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/26aca322-11af-4cf9-b072-ac24cf605f18/mini-checkpoint-preparer-un-cafe)
 62. [Déclarer et affecter des variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/60f17f64-30b3-4fa0-95ad-bf5330a0a6ab/declarer-et-affecter-des-variables)
+63. [Échanger deux valeurs](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/33abcd38-d254-4668-b542-9bcf70210045/echanger-deux-valeurs)
 

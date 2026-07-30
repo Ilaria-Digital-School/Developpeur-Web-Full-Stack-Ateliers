@@ -68,3 +68,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [60. Réécrire un algorithme désordonné](60-r-crire-un-algorithme-d-sordonn/)
 - [61. Mini-checkpoint - Préparer un café](61-mini-checkpoint-pr-parer-un-caf/)
 - [62. Déclarer et affecter des variables](62-d-clarer-et-affecter-des-variables/)
+- [63. Échanger deux valeurs](63-changer-deux-valeurs/)
