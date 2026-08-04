@@ -70,3 +70,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [62. Déclarer et affecter des variables](62-d-clarer-et-affecter-des-variables/)
 - [63. Échanger deux valeurs](63-changer-deux-valeurs/)
 - [64. Calculs simples avec variables](64-calculs-simples-avec-variables/)
+- [65. Mini-projet - Calcul d'IMC](65-mini-projet-calcul-d-imc/)
