@@ -73,3 +73,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [65. Mini-projet - Calcul d'IMC](65-mini-projet-calcul-d-imc/)
 - [66. Checkpoint - Gestion d'un panier simple](66-checkpoint-gestion-d-un-panier-simple/)
 - [67. Écrire un test IF simple](67-crire-un-test-if-simple/)
+- [68. Choix tarif réduit](68-choix-tarif-r-duit/)

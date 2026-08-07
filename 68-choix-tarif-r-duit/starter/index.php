@@ -1,0 +1,2 @@
+<?php
+// Choix tarif réduit

@@ -79,4 +79,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 65. [Mini-projet - Calcul d'IMC](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/f4820f10-5457-4d7a-8f77-8354325c6f19/mini-projet-calcul-d-imc)
 66. [Checkpoint - Gestion d'un panier simple](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/64be89fa-f7f8-4824-b02d-7385bc723267/checkpoint-gestion-d-un-panier-simple)
 67. [Écrire un test IF simple](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/0fc71233-db73-440a-8d17-847e660caf1e/ecrire-un-test-if-simple)
+68. [Choix tarif réduit](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/37136080-22d9-4df0-a660-7624491ee4a0/choix-tarif-reduit)
 
