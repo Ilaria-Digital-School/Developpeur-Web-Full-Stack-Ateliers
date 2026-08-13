@@ -76,3 +76,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [68. Choix tarif réduit](68-choix-tarif-r-duit/)
 - [69. Mini-projet - Calcul du prix d'un billet de train](69-mini-projet-calcul-du-prix-d-un-billet-de-train/)
 - [70. While - Compter de 1 à N](70-while-compter-de-1-n/)
+- [71. For - Calculer une factorielle](71-for-calculer-une-factorielle/)
