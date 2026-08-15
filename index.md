@@ -83,4 +83,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 69. [Mini-projet - Calcul du prix d'un billet de train](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/ec675721-96d5-49e9-bf63-8d3815de4c0b/mini-projet-calcul-du-prix-d-un-billet-de-train)
 70. [While - Compter de 1 à N](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/77c53658-ac24-4173-bb82-01838835eb5b/while-compter-de-1-a-n)
 71. [For - Calculer une factorielle](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/85c04acf-b4b6-4ae0-b021-a1bde966c550/for-calculer-une-factorielle)
+72. [Table de multiplication](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/8183f9d1-bb0d-47db-938b-1c34c4c091db/table-de-multiplication)
 
