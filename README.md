@@ -78,3 +78,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [70. While - Compter de 1 à N](70-while-compter-de-1-n/)
 - [71. For - Calculer une factorielle](71-for-calculer-une-factorielle/)
 - [72. Table de multiplication](72-table-de-multiplication/)
+- [73. Créer une fonction somme](73-cr-er-une-fonction-somme/)
