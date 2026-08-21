@@ -80,3 +80,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [72. Table de multiplication](72-table-de-multiplication/)
 - [73. Créer une fonction somme](73-cr-er-une-fonction-somme/)
 - [74. Refactoriser Factorielle en fonction](74-refactoriser-factorielle-en-fonction/)
+- [75. Parcourir une liste et afficher les éléments](75-parcourir-une-liste-et-afficher-les-l-ments/)
