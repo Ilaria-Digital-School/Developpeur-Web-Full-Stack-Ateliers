@@ -87,4 +87,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 73. [Créer une fonction somme](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/1561336c-18a3-40fd-b745-4b0bb3852f8a/creer-une-fonction-somme)
 74. [Refactoriser Factorielle en fonction](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/b9e08031-ab7a-4a81-b3e3-56875e3400c9/refactoriser-factorielle-en-fonction)
 75. [Parcourir une liste et afficher les éléments](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/322fe41a-8140-4a59-a32f-87a93a2caaf2/parcourir-une-liste-et-afficher-les-elements)
+76. [Trouver le minimum dans une liste](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/d2729b04-1729-49ba-bf0d-8e643754054f/trouver-le-minimum-dans-une-liste)
 
