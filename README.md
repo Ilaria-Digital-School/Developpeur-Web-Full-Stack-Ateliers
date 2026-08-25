@@ -82,3 +82,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [74. Refactoriser Factorielle en fonction](74-refactoriser-factorielle-en-fonction/)
 - [75. Parcourir une liste et afficher les éléments](75-parcourir-une-liste-et-afficher-les-l-ments/)
 - [76. Trouver le minimum dans une liste](76-trouver-le-minimum-dans-une-liste/)
+- [77. Caisse enregistreuse - synthèse des notions](77-caisse-enregistreuse-synth-se-des-notions/)
