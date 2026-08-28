@@ -84,3 +84,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [76. Trouver le minimum dans une liste](76-trouver-le-minimum-dans-une-liste/)
 - [77. Caisse enregistreuse - synthèse des notions](77-caisse-enregistreuse-synth-se-des-notions/)
 - [78. Atelier : déclarer et afficher des variables](78-atelier-d-clarer-et-afficher-des-variables/)
+- [79. Atelier : Conversions de types simples](79-atelier-conversions-de-types-simples/)

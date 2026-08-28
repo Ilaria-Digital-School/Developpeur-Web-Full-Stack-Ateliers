@@ -90,4 +90,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 76. [Trouver le minimum dans une liste](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/d2729b04-1729-49ba-bf0d-8e643754054f/trouver-le-minimum-dans-une-liste)
 77. [Caisse enregistreuse - synthèse des notions](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/17631b59-d378-49cb-b46d-999ec9e919dd/caisse-enregistreuse-synthese-des-notions)
 78. [Atelier : déclarer et afficher des variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/4e74017c-2e13-4377-96f3-bd0e19698860/atelier-declarer-et-afficher-des-variables)
+79. [Atelier : Conversions de types simples](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/3f67b61d-1630-4d1d-ad19-86d51e74376d/atelier-conversions-de-types-simples)
 
