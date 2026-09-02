@@ -86,3 +86,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [78. Atelier : déclarer et afficher des variables](78-atelier-d-clarer-et-afficher-des-variables/)
 - [79. Atelier : Conversions de types simples](79-atelier-conversions-de-types-simples/)
 - [80. Atelier : mini-calculatrice en console](80-atelier-mini-calculatrice-en-console/)
+- [81. Atelier : majorité légale – script interactif](81-atelier-majorit-l-gale-script-interactif/)
+- [82. Atelier : Pair ou impair ?](82-atelier-pair-ou-impair/)

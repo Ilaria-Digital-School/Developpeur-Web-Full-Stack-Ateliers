@@ -92,4 +92,6 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 78. [Atelier : déclarer et afficher des variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/4e74017c-2e13-4377-96f3-bd0e19698860/atelier-declarer-et-afficher-des-variables)
 79. [Atelier : Conversions de types simples](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/3f67b61d-1630-4d1d-ad19-86d51e74376d/atelier-conversions-de-types-simples)
 80. [Atelier : mini-calculatrice en console](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/cc80bfd0-a449-4022-81d0-6f77f396e978/atelier-mini-calculatrice-en-console)
+81. [Atelier : majorité légale – script interactif](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/2dd14a2b-8969-4d28-8c00-c02c7282b1e0/atelier-majorite-legale-script-interactif)
+82. [Atelier : Pair ou impair ?](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/70a63e22-04f5-44c6-abae-5c624582733a/atelier-pair-ou-impair)
 
