@@ -88,3 +88,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [80. Atelier : mini-calculatrice en console](80-atelier-mini-calculatrice-en-console/)
 - [81. Atelier : majorité légale – script interactif](81-atelier-majorit-l-gale-script-interactif/)
 - [82. Atelier : Pair ou impair ?](82-atelier-pair-ou-impair/)
+- [83. Atelier : fonction de salutation personnalisée](83-atelier-fonction-de-salutation-personnalis-e/)
