@@ -90,3 +90,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [82. Atelier : Pair ou impair ?](82-atelier-pair-ou-impair/)
 - [83. Atelier : fonction de salutation personnalisée](83-atelier-fonction-de-salutation-personnalis-e/)
 - [84. Atelier : calculatrice refactorisée avec fonctions](84-atelier-calculatrice-refactoris-e-avec-fonctions/)
+- [85. Atelier : Compteur de clics (prompt)](85-atelier-compteur-de-clics-prompt/)
