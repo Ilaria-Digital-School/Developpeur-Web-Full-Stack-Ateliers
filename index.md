@@ -98,4 +98,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 84. [Atelier : calculatrice refactorisée avec fonctions](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/ca9fea59-728e-4906-b89c-d27da6e84e96/atelier-calculatrice-refactorisee-avec-fonctions)
 85. [Atelier : Compteur de clics (prompt)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/1d3dc039-98ac-4402-8841-fd3222f8b836/atelier-compteur-de-clics-prompt)
 86. [Atelier : bouton alert avec gestionnaire d’événement](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/982342dd-399c-40ed-8f1f-95225d63d12f/atelier-bouton-alert-avec-gestionnaire-d-evenement)
+87. [Atelier : gérer une liste de tâches en console](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/da2c9f49-75d6-4d3f-9130-e822b59de657/atelier-gerer-une-liste-de-taches-en-console)
 
