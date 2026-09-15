@@ -93,3 +93,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [85. Atelier : Compteur de clics (prompt)](85-atelier-compteur-de-clics-prompt/)
 - [86. Atelier : bouton alert avec gestionnaire d’événement](86-atelier-bouton-alert-avec-gestionnaire-d-v-nement/)
 - [87. Atelier : gérer une liste de tâches en console](87-atelier-g-rer-une-liste-de-t-ches-en-console/)
+- [88. Atelier : statistiques de notes d’élèves](88-atelier-statistiques-de-notes-d-l-ves/)
