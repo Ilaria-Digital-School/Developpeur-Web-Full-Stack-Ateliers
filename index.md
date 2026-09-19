@@ -102,4 +102,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 88. [Atelier : statistiques de notes d’élèves](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/015fd53d-6123-4957-808d-4eec6ed587c9/atelier-statistiques-de-notes-d-eleves)
 89. [Atelier : filtrer et transformer une liste de produits](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/6487de24-d839-4de2-a037-84f01385e8a4/atelier-filtrer-et-transformer-une-liste-de-produits)
 90. [Atelier : objet user et méthode présentation](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/d000672a-63ae-4d52-9dd0-35c40e05a6ad/atelier-objet-user-et-methode-presentation)
+91. [Atelier : Catalogue produit (tableau d’objets)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/a6a39bc8-5520-4b1e-90d8-5d049426427f/atelier-catalogue-produit-tableau-d-objets)
 
