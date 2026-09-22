@@ -97,3 +97,4 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [89. Atelier : filtrer et transformer une liste de produits](89-atelier-filtrer-et-transformer-une-liste-de-produits/)
 - [90. Atelier : objet user et méthode présentation](90-atelier-objet-user-et-m-thode-pr-sentation/)
 - [91. Atelier : Catalogue produit (tableau d’objets)](91-atelier-catalogue-produit-tableau-d-objets/)
+- [92. Atelier : sélectionner un élément et changer son texte](92-atelier-s-lectionner-un-l-ment-et-changer-son-texte/)
