@@ -99,3 +99,5 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 - [91. Atelier : Catalogue produit (tableau d’objets)](91-atelier-catalogue-produit-tableau-d-objets/)
 - [92. Atelier : sélectionner un élément et changer son texte](92-atelier-s-lectionner-un-l-ment-et-changer-son-texte/)
 - [93. Atelier : Coloriser les paragraphes avec classList](93-atelier-coloriser-les-paragraphes-avec-classlist/)
+- [94. Atelier : générer dynamiquement une liste HTML](94-atelier-g-n-rer-dynamiquement-une-liste-html/)
+- [95. Mini-projet To-Do List – partie 1 : structure et données](95-mini-projet-to-do-list-partie-1-structure-et-donn-es/)

@@ -105,4 +105,6 @@ Devenir Développeur Web Full Stack et maîtriser le développement pour créer,
 91. [Atelier : Catalogue produit (tableau d’objets)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/a6a39bc8-5520-4b1e-90d8-5d049426427f/atelier-catalogue-produit-tableau-d-objets)
 92. [Atelier : sélectionner un élément et changer son texte](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/2e435d91-f94d-47f3-bc57-84b2cd5dfbd3/atelier-selectionner-un-element-et-changer-son-texte)
 93. [Atelier : Coloriser les paragraphes avec classList](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/19f97c7b-54ed-4df8-a61c-8a3d4384a03c/atelier-coloriser-les-paragraphes-avec-classlist)
+94. [Atelier : générer dynamiquement une liste HTML](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/98e071ad-d77f-4a6b-912d-911037084586/atelier-generer-dynamiquement-une-liste-html)
+95. [Mini-projet To-Do List – partie 1 : structure et données](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/21315394-1def-42a3-8805-c7a945c8abb3/mini-projet-to-do-list-partie-1-structure-et-donnees)
 
