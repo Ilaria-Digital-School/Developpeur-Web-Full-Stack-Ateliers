@@ -1,2 +1,0 @@
-<?php
-// Atelier : objet user et méthode présentation

@@ -1,2 +1,0 @@
-<?php
-// Atelier : sélectionner un élément et changer son texte

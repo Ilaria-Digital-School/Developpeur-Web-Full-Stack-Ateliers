@@ -1,2 +1,0 @@
-<?php
-// Atelier : créer une galerie d’images sémantique

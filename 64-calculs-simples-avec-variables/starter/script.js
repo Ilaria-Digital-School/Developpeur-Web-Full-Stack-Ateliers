@@ -1,1 +1,0 @@
-// Calculs simples avec variables

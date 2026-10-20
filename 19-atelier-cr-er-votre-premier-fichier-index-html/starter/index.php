@@ -1,2 +1,0 @@
-<?php
-// Atelier : créer votre premier fichier index.html

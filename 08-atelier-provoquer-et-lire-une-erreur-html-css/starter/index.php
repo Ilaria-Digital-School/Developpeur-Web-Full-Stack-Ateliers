@@ -1,2 +1,0 @@
-<?php
-// Atelier : provoquer et lire une erreur HTML/CSS

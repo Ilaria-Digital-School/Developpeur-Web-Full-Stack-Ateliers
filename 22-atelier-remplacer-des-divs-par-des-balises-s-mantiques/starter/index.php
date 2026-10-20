@@ -1,2 +1,0 @@
-<?php
-// Atelier : remplacer des divs par des balises sémantiques

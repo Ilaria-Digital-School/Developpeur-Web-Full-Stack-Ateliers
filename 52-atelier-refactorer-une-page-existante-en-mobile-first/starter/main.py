@@ -1,1 +1,0 @@
-# Atelier : refactorer une page existante en mobile-first

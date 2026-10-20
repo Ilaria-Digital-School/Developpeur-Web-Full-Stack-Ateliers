@@ -1,2 +1,0 @@
-<?php
-// Atelier : rendre un formulaire à la fois responsive et accessible

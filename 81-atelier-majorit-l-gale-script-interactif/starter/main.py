@@ -1,1 +1,0 @@
-# Atelier : majorité légale – script interactif

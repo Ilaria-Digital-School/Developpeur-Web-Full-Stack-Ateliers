@@ -1,2 +1,0 @@
-<?php
-// Atelier : commandes de base (cd, ls, mkdir, touch)
