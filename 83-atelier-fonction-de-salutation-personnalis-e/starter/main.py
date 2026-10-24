@@ -1,0 +1,1 @@
+# Atelier : fonction de salutation personnalisée

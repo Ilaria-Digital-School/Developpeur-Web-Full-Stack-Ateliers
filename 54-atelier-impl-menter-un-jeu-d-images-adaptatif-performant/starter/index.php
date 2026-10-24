@@ -1,0 +1,2 @@
+<?php
+// Atelier : implémenter un jeu d'images adaptatif performant

@@ -1,0 +1,2 @@
+<?php
+// Atelier : passer de 4 colonnes à 1 colonne selon la taille d'écran

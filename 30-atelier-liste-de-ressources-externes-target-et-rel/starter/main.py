@@ -1,0 +1,1 @@
+# Atelier : liste de ressources externes (target et rel)

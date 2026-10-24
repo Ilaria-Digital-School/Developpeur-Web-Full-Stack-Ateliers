@@ -1,0 +1,5 @@
+# While - Compter de 1 à N
+
+RAPPEL THÉORIQUE Une boucle while permet de répéter un bloc d'instructions tant qu'une condition reste vraie. Le mental model est simple : à chaque tour de boucle, la condition est évaluée ; si elle est vraie, le bloc s'exécute, sinon la boucle s'arrête. Contrairement à une boucle for, le while ne gère pas automatiquement l'incrément : c'est à toi de le faire. Une boucle while a donc besoin de trois éléments pour fonctionner correctement : une variable d'initialisation (avant la boucle), une condition d'arrêt (dans le while), et une modification de la variable à l'intérieur du bloc pour progresser vers l'arrêt. L'erreur la plus fréquente est la boucle infinie : si tu oublies d'incrémenter la variable, la condition reste toujours vraie et le programme ne s'arrête jamais. Une autre erreur classique est l'erreur de bornes (off-by-one) : compter de 1 à N mais afficher jusqu'à N-1 ou N+1 selon que la condition utilise < ou
+
+[Voir l'atelier complet](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/fr/a83c67c7-88c8-45e4-afa1-a27abbc69b14/77c53658-ac24-4173-bb82-01838835eb5b/while-compter-de-1-a-n)
