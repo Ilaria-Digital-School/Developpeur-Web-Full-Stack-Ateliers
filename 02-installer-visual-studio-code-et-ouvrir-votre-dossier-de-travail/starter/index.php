@@ -1,0 +1,2 @@
+<?php
+// Installer Visual Studio Code et ouvrir votre dossier de travail
