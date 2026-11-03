@@ -1,0 +1,2 @@
+<?php
+// Naviguer dans votre dossier de travail depuis le terminal
