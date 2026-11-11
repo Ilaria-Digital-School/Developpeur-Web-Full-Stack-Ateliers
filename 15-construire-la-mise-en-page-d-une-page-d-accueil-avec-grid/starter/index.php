@@ -1,0 +1,2 @@
+<?php
+// Construire la mise en page d'une page d'accueil avec Grid
