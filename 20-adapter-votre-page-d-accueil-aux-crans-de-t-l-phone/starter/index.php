@@ -1,0 +1,2 @@
+<?php
+// Adapter votre page d'accueil aux écrans de téléphone
