@@ -1,0 +1,2 @@
+<?php
+// Un problème d'organisation de fichiers résolu de la décomposition au terminal
