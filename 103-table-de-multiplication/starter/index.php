@@ -1,0 +1,2 @@
+<?php
+// Table de multiplication
